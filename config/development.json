@@ -1,0 +1,4 @@
+{
+    "name": "express-project env:development",
+    "morgan-log-level": "common"
+}
